@@ -1,9 +1,9 @@
 
+streamlit==1.33.0
+spacy==3.7.2
+PyPDF2==3.0.1
+scikit-learn==1.3.2
 
-streamlit
-spacy
-PyPDF2
-scikit-learn
-
-
+# Download spaCy English model (very important)
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+
